@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  PAGES_PROJECT_NAME: optimizer
+  PAGES_PROJECT_NAME: optimizer-mirror-marcustyphoon
   NODE_VERSION: 20
 
 concurrency:
